@@ -23,7 +23,7 @@ class Driver {
     });
   }
 }
-
+let passangerId = 0;
 class Passenger {
   constructor(name) {
     this.name = name;

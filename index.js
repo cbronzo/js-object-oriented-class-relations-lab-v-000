@@ -7,3 +7,4 @@ class Driver {
     this.name = name;
     store.driver << this
   }
+}
